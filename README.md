@@ -10,13 +10,16 @@
 ### Abstract:
 This dissertation presents the development and implementation of an automated monkey detection system using computer vision techniques. The system utilizes the YOLOv9 object detection model trained on annotated images using Roboflow, aimed at addressing the issue of monkey-related nuisances in urban areas. Through a combination of deep learning algorithms and image processing methodologies, the proposed system demonstrates robustness and efficiency in identifying and tracking monkeys in real-time scenarios.
 
-
-https://github.com/nikhilgawai/Yolov9-Monkey-Detection/assets/89011801/a46f74d9-8f86-4516-a5f4-7aa6ddf22def
-
-
-
-
 # Detection:- 
+
+
+https://www.youtube.com/shorts/nMVWZ4iZ_F4
+
+https://www.youtube.com/shorts/2n23UzAHkFs
+
+https://www.youtube.com/watch?v=92XKCLm5Ozg
+
+https://www.youtube.com/shorts/nE7dN85IaIA
 
 
 
